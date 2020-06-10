@@ -46,6 +46,7 @@ dl {
     padding: 0.5em;
   }
   dt {
+    font-size: 1.5em;
     float: left;
     clear: left;
     width: 100px;
@@ -57,6 +58,7 @@ dl {
     content: ":";
   }
   dd {
+    font-size: 1.5em;
     margin: 0 0 0 110px;
     padding: 0 0 0.5em 0;
   }
