@@ -42,10 +42,5 @@ ul.posts li {
     list-style: none;
 }
 
-a:visited {
-  color:blueviolet;
-  background-color: transparent;
-  text-decoration: none;
-}
 </style>
 
