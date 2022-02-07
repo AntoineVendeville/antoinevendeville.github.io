@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Antoine Vendeville"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Antoine Vendeville"
 description              : &description "personal description"
