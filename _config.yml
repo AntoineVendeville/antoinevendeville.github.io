@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Antoine Vendeville"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Antoine Vendeville"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Antoine Vendeville"
-  avatar           : "cdt_pic.jpg"
+  avatar           : "profile.png"
   bio              : "I am a PhD student in the Computer Science department of University College London."
   location         : "London, UK"
   employer         :
