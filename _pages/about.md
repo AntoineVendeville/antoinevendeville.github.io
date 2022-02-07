@@ -13,6 +13,3 @@ I am a PhD student in the Computer Science department of University College Lond
 I am part of the [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity)
 		
 My research is about trying to understand the emergence of polarisation and echo chambers in social networks. What are the characteristics of dynamical opinion processes that foster these phenomenons, and can they be controlled?
-
-* a.vendeville <i>at</i> ucl.ac.uk
-* UCL Centre for Artificial Intelligence, 90 High Holborn, WC1V 6LJ London, United Kingdom.
