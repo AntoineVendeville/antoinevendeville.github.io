@@ -28,5 +28,11 @@ redirect_from:
 * 2015 - 2017: Master 1 Mathematics and Applications, Sorbonne Universités<sup>1</sup>.
 * 2012 - 2015: Bachelor in Mathematics and Applications, Sorbonne Universités<sup>1</sup>.
 
+## Peer reviews
+* [Nature Scientific Reports](https://www.nature.com/srep/)
+* [PLOS ONE](https://journals.plos.org/plosone/)
+* [Proceedings of the Royal Society A](https://royalsocietypublishing.org/journal/rspa)
+* [Computer Communications](https://www.journals.elsevier.com/computer-communications)
+
 
 <sup>1</sup><font size="2">Former Université Pierre et Marie Curie, Paris, France.</font> 
