@@ -28,4 +28,5 @@ redirect_from:
 * 2015 - 2017: Master 1 Mathematics and Applications, Sorbonne Universités<sup>1</sup>.
 * 2012 - 2015: Bachelor in Mathematics and Applications, Sorbonne Universités<sup>1</sup>.
 
-<sup>1</sup>Former Université Pierre et Marie Curie, Paris, France.
+
+<sup>1</sup><font size="1"> This is my text number1</font> 
