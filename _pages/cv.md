@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research
+## Research
 ======
 * Since 2019: PhD student, University College London	
 	* Computer Science Department, [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). 
@@ -23,7 +23,7 @@ Research
 	* Supervisors: [Anastasios Giovanidis](https://anastasiosgiovanidis.net/), [Bruno Baynat](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P144), [Clémence Magnien](https://www-complexnetworks.lip6.fr/~magnien/).
 	* Duration: 5 months.
 
-Education
+## Education
 ======
 * 2018 - 2019: Master 2 Data Science, Université Claude Bernard (Lyon, France)
 * 2017 - 2018: Master 2 Mathematical Modelling, Sorbonne Universités[^1].
