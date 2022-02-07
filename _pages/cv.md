@@ -17,7 +17,7 @@ redirect_from:
 	* [LiP6](https://www.lip6.fr/), team [NPA](https://www-npa.lip6.fr/).
 	* Supervisors: [Anastasios Giovanidis](https://anastasiosgiovanidis.net/), [Bruno Baynat](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P144), [Clémence Magnien](https://www-complexnetworks.lip6.fr/~magnien/).
 	* Duration: 5 months.
-* Summer 2018: Research assistant Sorbonne Universités<sup>1</sup>
+* Summer 2018: Research assistant, Sorbonne Universités<sup>1</sup>
 	* [LiP6](https://www.lip6.fr/), team [NPA](https://www-npa.lip6.fr/).
 	* Supervisors: [Anastasios Giovanidis](https://anastasiosgiovanidis.net/), [Bruno Baynat](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P144), [Clémence Magnien](https://www-complexnetworks.lip6.fr/~magnien/).
 	* Duration: 5 months.
@@ -29,10 +29,11 @@ redirect_from:
 * 2012 - 2015: Bachelor in Mathematics and Applications, Sorbonne Universités<sup>1</sup>.
 
 ## Peer reviews
+I have reviewed papers for the following journals:
 * [Nature Scientific Reports](https://www.nature.com/srep/)
 * [PLOS ONE](https://journals.plos.org/plosone/)
 * [Proceedings of the Royal Society A](https://royalsocietypublishing.org/journal/rspa)
 * [Computer Communications](https://www.journals.elsevier.com/computer-communications)
 
-
+<br />
 <sup>1</sup><font size="2">Former Université Pierre et Marie Curie, Paris, France.</font> 
