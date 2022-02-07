@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 Research
 ======
-* Since 2019: PhD student  University College London	
+* Since 2019: PhD student, University College London	
 	* Computer Science Department, [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). 
 	* Supervisors: [Benjamin Guedj](https://bguedj.github.io/) and [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/).
 * Summer 2019: Research assistant, 
