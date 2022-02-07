@@ -29,4 +29,4 @@ redirect_from:
 * 2012 - 2015: Bachelor in Mathematics and Applications, Sorbonne Universités<sup>1</sup>.
 
 
-<sup>1</sup><font size="5">Former Université Pierre et Marie Curie, Paris, France.</font> 
+<sup>1</sup><font size="2">Former Université Pierre et Marie Curie, Paris, France.</font> 
