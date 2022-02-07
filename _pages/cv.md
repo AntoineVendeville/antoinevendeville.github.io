@@ -23,7 +23,7 @@ redirect_from:
 	* Duration: 5 months.
 
 ## Education
-* 2018 - 2019: Master 2 Data Science, Université Claude Bernard (Lyon, France)
+* 2018 - 2019: Master 2 Data Science, Université Claude Bernard Lyon 1
 * 2017 - 2018: Master 2 Mathematical Modelling, Sorbonne Universités<sup>1</sup>.
 * 2015 - 2017: Master 1 Mathematics and Applications, Sorbonne Universités<sup>1</sup>.
 * 2012 - 2015: Bachelor in Mathematics and Applications, Sorbonne Universités<sup>1</sup>.
@@ -36,4 +36,4 @@ I have reviewed papers for the following journals:
 * [Computer Communications](https://www.journals.elsevier.com/computer-communications)
 
 <br />
-<sup>1</sup><font size="2">Former Université Pierre et Marie Curie, Paris, France.</font> 
+<sup>1</sup><font size="2">Former Université Pierre et Marie Curie, Paris.</font> 
