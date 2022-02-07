@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Home"
+title                    : "Antoine Vendeville"
 title_separator          : "-"
 name                     : &name "Antoine Vendeville"
 description              : &description "personal description"
@@ -89,6 +89,7 @@ author:
   googlescholar    : "https://scholar.google.fr/citations?user=D7pFu_8AAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Antoine-Vendeville"
+  arxiv            : "http://arxiv.org/a/vendeville_a_1"
   uri              :
   bitbucket        :
   codepen          :
