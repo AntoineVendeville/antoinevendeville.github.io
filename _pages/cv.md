@@ -28,6 +28,9 @@ redirect_from:
 * 2015 - 2017: Master 1 Mathematics and Applications, Sorbonne Universités<sup>1</sup>.
 * 2012 - 2015: Bachelor in Mathematics and Applications, Sorbonne Universités<sup>1</sup>.
 
+## Supervision
+* 2021: with the help of [Benjamin Guedj](https://bguedj.github.io/) I supervised [Valentin Kilian](https://valentinkil.github.io/) for a 2 months research internship on opinion dynamics at [Inria](https://www.inria.fr/en).
+
 ## Peer reviews
 I have reviewed papers for the following journals:
 * [Nature Scientific Reports](https://www.nature.com/srep/)
