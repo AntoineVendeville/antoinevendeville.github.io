@@ -24,9 +24,9 @@ redirect_from:
 
 ## Education
 * 2018 - 2019: Master 2 Data Science, Université Claude Bernard, Lyon.
-* 2017 - 2018: Master 2 Mathematical Modelling, Sorbonne Université<sup>1</sup>.
-* 2015 - 2017: Master 1 Mathematics and Applications, Sorbonne Université<sup>1</sup>.
-* 2012 - 2015: Bachelor in Mathematics and Applications, Sorbonne Université<sup>1</sup>.
+* 2017 - 2018: Master 2 Mathematical Modelling, Sorbonne Université.<sup>1</sup>
+* 2015 - 2017: Master 1 Mathematics and Applications, Sorbonne Université.<sup>1</sup>
+* 2012 - 2015: Bachelor in Mathematics and Applications, Sorbonne Université.<sup>1</sup>
 
 ## Supervision
 * 2021: [Benjamin Guedj](https://bguedj.github.io/) and I supervised [Valentin Kilian](https://valentinkil.github.io/) for a 2 months research internship on opinion dynamics at [Inria](https://www.inria.fr/en).
