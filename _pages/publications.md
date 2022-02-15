@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2022
+* A. Vendeville, B. Guedj and S. Zhou. Towards control of opinion diversity by introducing zealots into a polarised social group. [Proceedings of Complex Networks and Their Applications X](https://link.springer.com/chapter/10.1007%2F978-3-030-93413-2_29). Preprint on [arXiv](https://arxiv.org/abs/2006.07265), [HAL](https://hal.inria.fr/hal-02872161).
+
 ## 2021
-* A. Vendeville, B. Guedj and S. Zhou. Towards control of opinion diversity by introducing zealots into a polarised social group. [Proceedings of Complex Networks and Their Applications X, 2021](https://link.springer.com/chapter/10.1007%2F978-3-030-93413-2_29). Preprint on [arXiv](https://arxiv.org/abs/2006.07265), [HAL](https://hal.inria.fr/hal-02872161).
 * A. Giovanidis, B. Baynat, C. Magnien and A. Vendeville. Ranking Online Social Users by Their Influence. [IEEE/ACM Transactions on Networking, 2021](https://doi.org/10.1109/TNET.2021.3085201). Preprint on [arXiv](https://arxiv.org/abs/2107.01914).
 * A. Vendeville, B. Guedj and S. Zhou. Forecasting elections results via the voter model with stubborn nodes. [Applied Network Science 6, 1 (2021)](https://doi.org/10.1007/s41109-020-00342-7). Preprint on [arXiv](https://arxiv.org/abs/2009.10627).
 
