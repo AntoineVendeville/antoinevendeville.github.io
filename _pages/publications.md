@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2021
 * A. Giovanidis, B. Baynat, C. Magnien and A. Vendeville. Ranking Online Social Users by Their Influence. [IEEE/ACM Transactions on Networking, 2021](https://doi.org/10.1109/TNET.2021.3085201). Preprint on [arXiv](https://arxiv.org/abs/2107.01914), [HAL](https://hal.archives-ouvertes.fr/hal-02970215).
-* A. Vendeville, B. Guedj and S. Zhou. Forecasting elections results via the voter model with stubborn nodes. [Applied Network Science 6, 1 (2021)](https://doi.org/10.1007/s41109-020-00342-7). Preprint on [arXiv](https://arxiv.org/abs/2009.10627), [HAL](https://hal.archives-ouvertes.fr/hal-02946434).
+* A. Vendeville, B. Guedj and S. Zhou. Forecasting elections results via the voter model with stubborn nodes. [Applied Network Science 6, 1, 2021](https://doi.org/10.1007/s41109-020-00342-7). Preprint on [arXiv](https://arxiv.org/abs/2009.10627), [HAL](https://hal.archives-ouvertes.fr/hal-02946434).
 
 ## 2019
 * A. Giovanidis, B. Baynat and A. Vendeville. Performance Analysis of Online Social Platforms. [IEEE INFOCOM 2019, pp. 2413-2421](https://ieeexplore.ieee.org/abstract/document/8737539). Preprint on [arXiv](https://arxiv.org/abs/1902.07187), [HAL](https://hal.archives-ouvertes.fr/hal-01941296).
