@@ -14,4 +14,4 @@ author_profile: true
 * A. Vendeville, B. Guedj and S. Zhou. Forecasting elections results via the voter model with stubborn nodes. [Applied Network Science 6, 1 (2021)](https://doi.org/10.1007/s41109-020-00342-7). Preprint on [arXiv](https://arxiv.org/abs/2009.10627), [HAL](https://hal.archives-ouvertes.fr/hal-02946434).
 
 ## 2019
-* A. Giovanidis, B. Baynat and A. Vendeville. Performance Analysis of Online Social Platforms. [IEEE INFOCOM 2019, pp. 2413-2421](https://ieeexplore.ieee.org/abstract/document/8737539). Preprint on [arXiv]("https://arxiv.org/abs/1902.07187"), [HAL](https://hal.archives-ouvertes.fr/hal-01941296).
+* A. Giovanidis, B. Baynat and A. Vendeville. Performance Analysis of Online Social Platforms. [IEEE INFOCOM 2019, pp. 2413-2421](https://ieeexplore.ieee.org/abstract/document/8737539). Preprint on [arXiv](https://arxiv.org/abs/1902.07187), [HAL](https://hal.archives-ouvertes.fr/hal-01941296).
