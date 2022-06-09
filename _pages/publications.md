@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## 2022
-*  A. Vendeville, B. Guedj and S. Zhou. Depolarising Social Networks: Optimisation of Exposure to Adverse Opinions in the Presence of a Backfire Effect. Submitted. Preprint on [arXiv](https://arxiv.org/abs/2203.02002), [HAL](https://hal.inria.fr/hal-03600429).
+* A. Vendeville, A. Giovanidis, E. Papanastasiou and B. Guedj. Opening up echo chambers via optimal content recommendations. Submitted. Preprint on [arXiv](https://arxiv.org/abs/2206.03859), [HAL](https://hal.archives-ouvertes.fr/hal-03691800v1).
+* A. Vendeville, B. Guedj and S. Zhou. Depolarising Social Networks: Optimisation of Exposure to Adverse Opinions in the Presence of a Backfire Effect. Submitted. Preprint on [arXiv](https://arxiv.org/abs/2203.02002), [HAL](https://hal.inria.fr/hal-03600429).
 * A. Vendeville, B. Guedj and S. Zhou. Towards control of opinion diversity by introducing zealots into a polarised social group. [Proceedings of Complex Networks and Their Applications X](https://link.springer.com/chapter/10.1007%2F978-3-030-93413-2_29). Preprint on [arXiv](https://arxiv.org/abs/2006.07265), [HAL](https://hal.inria.fr/hal-02872161).
 
 ## 2021
