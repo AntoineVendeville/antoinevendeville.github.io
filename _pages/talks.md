@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2022
+* [Fighting political echo chambers via content recommendation: Method and application to the 2017 French presidential elections](../files/presCatania.pdf). Presented on June 29, 2022 at [MSCX](https://mediterraneanschoolcomplex.net/).
 * [Depolarising Social Networks: Optimisation of Exposure to Adverse Opinions in the Presence of a Backfire Effect](../files/talk_complexnet%2BNPA.pdf), presented on April 12, 2022 at Sorbonne Université to the [Complex Networks](https://www.complexnetworks.fr/) and [NPA](https://www-npa.lip6.fr/) teams.
 * [Voter model with zealots for opinion control and forecast of election results](../files/talk_IDS.pdf), presented on January 7, 2022 at University College London, for the Information and Decision Systems research group ([IDS](https://www.ucl.ac.uk/computer-science/research/research-groups/information-and-decision-systems-ids)).
 
