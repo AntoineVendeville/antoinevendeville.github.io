@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2022
-* [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_NetworksAndGames.pdf). Presented on November 8, 2022 at [Complex Networks 2022](https://complexnetworks.org/).
+* [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_CNA22.pdf). Presented on November 8, 2022 at [Complex Networks 2022](https://complexnetworks.org/).
 * [Active links in the voter model with zealots](../files/poster_ccs2022_voter.pdf), poster presented on October 20, 2022 at [Conference on Complex Systems](https://ccs2022.org/).
 * [Recommendation of content to mitigate the echo chamber effect](../files/poster_ccs2022_echo.pdf), poster presented on October 17, 2022 at [Conference on Complex Systems](https://ccs2022.org/).
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_NetworksAndGames.pdf). Presented on September 29, 2022 at Centre d’Economie de la Sorbonne, for the [Networks and Games seminar](https://sites.google.com/site/cesworkinggroupnetworks/).
