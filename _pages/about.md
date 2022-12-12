@@ -14,4 +14,4 @@ I am part of the [Centre for Doctoral Training in Cybersecurity](https://www.ucl
 		
 My research is about trying to understand the emergence of polarisation and echo chambers in social networks. What are the characteristics of dynamical opinion processes that foster these phenomenons, and can they be controlled?
 
-You can find an updated CV [here](../files/cv/mycv.pdf).
+You can find an updated CV [here](../files/mycv.pdf).
