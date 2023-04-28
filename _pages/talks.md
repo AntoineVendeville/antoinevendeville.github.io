@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2022
+* [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_medialab.pdf). Presented on April 25, 2023 for the [MediaLab Sciences Po Paris](https://medialab.sciencespo.fr/).
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_netplace.pdf). Presented on April 20, 2023 for the [NetPLACE](https://sites.google.com/view/netplace) seminar. Recording available on [YouTube](https://www.youtube.com/watch?v=qScYLGmQVyc&t=1898s).
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_datanatives.pdf). Presented on April 14, 2023 for the Data Natives seminar at City University, London.
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_CNA22.pdf). Presented on November 8, 2022 at [Complex Networks 2022](https://complexnetworks.org/).
