@@ -5,10 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-## 2022
+## 2023
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_medialab.pdf). Presented on April 25, 2023 at the [MediaLab Sciences Po Paris](https://medialab.sciencespo.fr/).
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_netplace.pdf). Presented on April 20, 2023 for the [NetPLACE](https://sites.google.com/view/netplace) seminar. Recording available on [YouTube](https://www.youtube.com/watch?v=qScYLGmQVyc&t=1898s).
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_datanatives.pdf). Presented on April 14, 2023 for the Data Natives seminar at City University, London.
+
+## 2022
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_CNA22.pdf). Presented on November 8, 2022 at [Complex Networks 2022](https://complexnetworks.org/).
 * [Active links in the voter model with zealots](../files/poster_ccs2022_voter.pdf), poster presented on October 20, 2022 at [Conference on Complex Systems](https://ccs2022.org/).
 * [Recommendation of content to mitigate the echo chamber effect](../files/poster_ccs2022_echo.pdf), poster presented on October 17, 2022 at [Conference on Complex Systems](https://ccs2022.org/).
