@@ -11,4 +11,4 @@ author_profile: true
 * 2020-2021: teaching assistant for [Introductory Programming (COMP0066)](https://www.ucl.ac.uk/module-catalogue/modules/introductory-programming/COMP0066).
 
 ## Others
-* 2013-2017: private maths tutor for high school students in Paris.
+* 2013-2017: private maths tutor for middle and high school students in Paris.
