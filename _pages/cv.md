@@ -27,6 +27,7 @@ PDF file [here](../files/mycv.pdf).
 
 ## Research visits
 * 2023: [IFISC Mallorca](https://ifisc.uib-csic.es/es/), for a collaboration with [Fernando Diaz-Diaz](https://ifisc.uib-csic.es/es/people/fernando-diaz/).
+* 2023: [SAILab](https://sailab.diism.unisi.it/), University of Siena, Italy.
 * 2022: Sorbonne Université, for a collaboration with [Anastasios Giovanidis](https://anastasiosgiovanidis.net/).
 
 ## Education
