@@ -7,10 +7,13 @@ redirect_from:
   - /resume
 ---
 
-You can find an updated PDF file [here](../files/mycv.pdf).
+PDF file [here](../files/mycv.pdf).
 
-## Research
-* Since 2019: PhD student, University College London	
+## Research positions
+* 2023-2025: Post-doctoral researcher, Médialab Sciences Po, Paris
+	* Project: [AI-Political Machines](https://medialab.sciencespo.fr/activites/ai-political-machine/).
+	* Supervisor: [Pedro Ramaciotti Morales](https://pedroramaciotti.github.io/).
+* 2019-2023: PhD student, University College London	
 	* Computer Science Department, [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). 
 	* Supervisors: [Benjamin Guedj](https://bguedj.github.io/), [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/).
 * Summer 2019: Research assistant, Sorbonne Université<sup>1</sup>
@@ -21,6 +24,10 @@ You can find an updated PDF file [here](../files/mycv.pdf).
 	* Computer Science Department ([LiP6](https://www.lip6.fr/)), team [NPA](https://www-npa.lip6.fr/).
 	* Supervisors: [Anastasios Giovanidis](https://anastasiosgiovanidis.net/), [Bruno Baynat](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P144), [Clémence Magnien](https://www-complexnetworks.lip6.fr/~magnien/).
 	* Duration: 5 months.
+
+## Research visits
+* 2023: [IFISC Mallorca](https://ifisc.uib-csic.es/es/), for a collaboration with [Fernando Diaz-Diaz](https://ifisc.uib-csic.es/es/people/fernando-diaz/).
+* 2022: Sorbonne Université, for a collaboration with [Anastasios Giovanidis](https://anastasiosgiovanidis.net/).
 
 ## Education
 * 2018 - 2019: Master 2 Data Science, Université Claude Bernard, Lyon.
