@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can find an updated PDF file [here](../files/mycv.pdf).
 
 ## Research
 * Since 2019: PhD student, University College London	
