@@ -7,10 +7,6 @@ redirect_from:
   - /funding
 ---
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list     
-
-I received the [yrCSS Bridge Grant](http://yrcss.cssociety.org/bridge-grants/), that fosters collaborations between young researchers.
+* My post-doctoral research project at Sciences Po is funded by the [McCourt institute](https://www.sciencespo.fr/nous-soutenir/fr/nos-projets/developper-la-recherche/project-liberty-s-institute-mc-court-institute/).
+* In 2023 I received the [yrCSS Bridge Grant](http://yrcss.cssociety.org/bridge-grants/), that fosters collaborations between young researchers.
+* My PhD was funded by the [UK EPSRC](https://www.ukri.org/councils/epsrc/).
