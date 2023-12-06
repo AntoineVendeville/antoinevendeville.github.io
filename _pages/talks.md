@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## 2023
+* [Echo chambers and opinion diversity in the Voter Model: towards regulation strategies for social networks](../files/talk_IFISC.pdf). Presented on November 7, 2023 at the [IFISC](https://ifisc.uib-csic.es/en/).
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_medialab.pdf). Presented on April 25, 2023 at the [MediaLab Sciences Po Paris](https://medialab.sciencespo.fr/).
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_netplace.pdf). Presented on April 20, 2023 for the [NetPLACE](https://sites.google.com/view/netplace) seminar. Recording available on [YouTube](https://www.youtube.com/watch?v=qScYLGmQVyc&t=1898s).
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_datanatives.pdf). Presented on April 14, 2023 for the Data Natives seminar at City University, London.
