@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Post-doctoral researcher at the [Médialab Sciences Po](https://medialab.sciencespo.fr/en/) in Paris. I work on the [AI-Political Machinies](https://medialab.sciencespo.fr/activites/ai-political-machine/) project under the supervision of [Pedro Ramaciotti Morales](https://pedroramaciotti.github.io/).
 
-My research is devoted to the study of opinion dynamics in online social platforms. I wish to bridge the gap between theoretical models and empirical observations. I am also particularly interested in the impact of recommender systems, and policies related to the regulation of online social platforms from a practical perspective. Other areas of interest include voting systems, online democracy, and evolution of species. 
+My research is devoted to the study of opinion dynamics in online social platforms, between theoretical models and empirical observations. I also study the impact of recommender systems, and policies related to the regulation of online social platforms from a practical perspective. Other areas of interest include biological systems, voting systems and digital democracy.
 
 I am a member of the [Complex Systems Society](https://cssociety.org/home). I received the [yrCSS Bridge Grant](http://yrcss.cssociety.org/bridge-grants/), that fosters collaborations between young researchers.
 

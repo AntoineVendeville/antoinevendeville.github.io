@@ -4,8 +4,7 @@ title: "Funding"
 permalink: /funding/
 author_profile: true
 redirect_from:
-  - /funding/
-  - /funding.html
+  - /funding
 ---
 
 | Entry            | Item   |                                                              |
