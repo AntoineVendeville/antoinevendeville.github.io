@@ -46,5 +46,8 @@ I have reviewed papers for the following journals:
 * [Proceedings of the Royal Society A](https://royalsocietypublishing.org/journal/rspa)
 * [Computer Communications](https://www.journals.elsevier.com/computer-communications)
 
+## Miscellaneous
+I was a student volunteer at [INFOCOM 2019](https://infocom2019.ieee-infocom.org/index.html).
+
 <br />
 <sup>1</sup><font size="2">Former Université Pierre et Marie Curie, Paris.</font> 
