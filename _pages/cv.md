@@ -16,11 +16,11 @@ PDF file [here](../files/mycv.pdf).
 * 2019-2023: PhD student, University College London	
 	* Computer Science Department, [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). 
 	* Supervisors: [Benjamin Guedj](https://bguedj.github.io/), [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/).
-* Summer 2019: Research assistant, Sorbonne Université<sup>*</sup>
+* 2019: Research assistant, Sorbonne Université<sup>*</sup>
 	* Computer Science Department ([LiP6](https://www.lip6.fr/)), team [NPA](https://www-npa.lip6.fr/).
 	* Supervisors: [Anastasios Giovanidis](https://anastasiosgiovanidis.net/), [Bruno Baynat](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P144), [Clémence Magnien](https://www-complexnetworks.lip6.fr/~magnien/).
 	* Duration: 5 months.
-* Summer 2018: Research assistant, Sorbonne Université<sup>*</sup>
+* 2018: Research assistant, Sorbonne Université<sup>*</sup>
 	* Computer Science Department ([LiP6](https://www.lip6.fr/)), team [NPA](https://www-npa.lip6.fr/).
 	* Supervisors: [Anastasios Giovanidis](https://anastasiosgiovanidis.net/), [Bruno Baynat](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P144), [Clémence Magnien](https://www-complexnetworks.lip6.fr/~magnien/).
 	* Duration: 5 months.
