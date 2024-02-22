@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2024
-* A. Vendeville, S. Zhou and B. Guedj. Discord in the voter model for complex networks. [Phys. Rev. E, 109(2), 024312](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024312). Preprint on [arXiv](https://arxiv.org/abs/2203.02002), [HAL](https://hal.inria.fr/hal-03600429).
+* A. Vendeville, S. Zhou and B. Guedj. Discord in the voter model for complex networks. [Phyical Review E, 109(2), 024312](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024312). Preprint on [arXiv](https://arxiv.org/abs/2203.02002), [HAL](https://hal.inria.fr/hal-03600429).
 * A. Vendeville. The echo chamber effect in social networks: theoretical analysis and steering strategies. [HAL](https://theses.hal.science/tel-04431872).
 
 ## 2023

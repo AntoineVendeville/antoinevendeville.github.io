@@ -16,14 +16,15 @@ I am also affiliated with the [Paris Institute of Complex Systems](https://iscpi
 
 Previously, I was a PhD student in the Computer Science department of University College London. I was part of the [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). My research project was supervised by [Benjamin Guedj](https://bguedj.github.io/) and [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/).
 
-## Selected publications
+# Selected publications
 
 ### Discord in the voter model for complex networks
 A. Vendeville, S. Zhou and B. Guedj. [Phys. Rev. E, 109(2), 024312 (2024)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024312).
 
-![blabla](../images/discord.png)
+<img src="../images/discord.png" alt="Alt text" width="150" height="70">
+
 
 ### Opening up echo chambers via optimal content recommendations
-A. Vendeville, A. Giovanidis, E. Papanastasiou and B. Guedj. [Proceedings of Complex Networks and Their Applications XI (2023)](https://link.springer.com/chapter/10.1007/978-3-031-21127-0_7).
+A. Vendeville, A. Giovanidis, E. Papanastasiou and B. Guedj. [Proc. Complex Netw. Appl. XI (2023)](https://link.springer.com/chapter/10.1007/978-3-031-21127-0_7).
 
-![blabla](../images/cna23.png)
+<img src="../images/cna23.png" alt="Alt text" width="150" height="100">
