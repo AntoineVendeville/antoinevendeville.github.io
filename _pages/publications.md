@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2023
-* A. Vendeville, B. Guedj and S. Zhou. On discord in the voter model for complex networks. To appear in *Physical Review E*. Preprint on [arXiv](https://arxiv.org/abs/2203.02002), [HAL](https://hal.inria.fr/hal-03600429).
-* A. Vendeville, A. Giovanidis, E. Papanastasiou and B. Guedj. Opening up echo chambers via optimal content recommendations. [Proceedings of Complex Networks and Their Applications XI](https://link.springer.com/chapter/10.1007/978-3-031-21127-0_7). Preprint on [arXiv](https://arxiv.org/abs/2206.03859), [HAL](https://hal.archives-ouvertes.fr/hal-03691800).
+## 2024
+* A. Vendeville, S. Zhou and B. Guedj. Discord in the voter model for complex networks. [Phys. Rev. E, 109(2), 024312](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024312). Preprint on [arXiv](https://arxiv.org/abs/2203.02002), [HAL](https://hal.inria.fr/hal-03600429).
+* A. Vendeville. The echo chamber effect in social networks: theoretical analysis and steering strategies. [HAL](https://theses.hal.science/tel-04431872).
 
-### Thesis
-A. Vendeville. The echo chamber effect in social networks: theoretical analysis and steering strategies. [HAL](https://theses.hal.science/tel-04431872).
+## 2023
+* A. Vendeville, A. Giovanidis, E. Papanastasiou and B. Guedj. Opening up echo chambers via optimal content recommendations. [Proceedings of Complex Networks and Their Applications XI](https://link.springer.com/chapter/10.1007/978-3-031-21127-0_7). Preprint on [arXiv](https://arxiv.org/abs/2206.03859), [HAL](https://hal.archives-ouvertes.fr/hal-03691800).
 
 ## 2022
 * A. Vendeville, A. Giovanidis, E. Papanastasiou and B. Guedj. Recommendation of content to mitigate the echo chamber effect. Extended abstract. Presented at [CCS 2022](https://www.ccs2022.org/). [HAL](https://hal.science/hal-04010528).
