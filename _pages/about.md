@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+> I am an organiser of the [FRIENDS](https://signet-friends.github.io/) satellite for the coming CCS24, that will be held in September in Exeter, UK. Submit your abstract [now](https://signet-friends.github.io/submit/)! 
+
+<p align="center">
+<img src="../images/friends.png" width="150" height="120">
+</p>
 
 I am a Post-doctoral researcher at the [médialab Sciences Po](https://medialab.sciencespo.fr/en/) in Paris. I work on the [AI-Political Machines](https://medialab.sciencespo.fr/activites/ai-political-machine/) project under the supervision of [Pedro Ramaciotti Morales](https://pedroramaciotti.github.io/).
 
@@ -17,11 +22,6 @@ I am also affiliated with the [Paris Institute of Complex Systems](https://iscpi
 
 Previously, I was a PhD student in the Computer Science department of University College London. I was part of the [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). My research project was supervised by [Benjamin Guedj](https://bguedj.github.io/) and [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/).
 
-> I am an organiser of the [FRIENDS](https://signet-friends.github.io/) satellite for the coming CCS24, that will be held in September in Exeter, UK. Submit your abstract [now](https://signet-friends.github.io/submit/)! 
-
-<p align="center">
-<img src="../images/friends.png" width="150" height="120">
-</p>
 
 ## Selected publications
 
