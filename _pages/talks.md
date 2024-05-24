@@ -5,6 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+## 2024
+* [Discord in the Voter Model on Complex Networks](../files/poster_complenet.pdf). Presented on April 24, 2024 at [Complenet](https://complenet.weebly.com/).
+* [Recommendation of content to mitigate the echo chamber effect](../files/talk_complenet.pdf). Presented on April 24, 2024 at [Complenet](https://complenet.weebly.com/).
+
+
 ## 2023
 * [Echo chambers and opinion diversity in the Voter Model: towards regulation strategies for social networks](../files/talk_IFISC.pdf). Presented on November 7, 2023 at the [IFISC](https://ifisc.uib-csic.es/en/).
 * [Opening up Echo Chambers via Optimal Content Recommendation](../files/talk_medialab.pdf). Presented on April 25, 2023 at the [MediaLab Sciences Po Paris](https://medialab.sciencespo.fr/).
