@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-> I am an organiser of the [FRIENDS](https://signet-friends.github.io/) satellite for the coming CCS24, that will be held in September in Exeter, UK. Submit your abstract [now](https://signet-friends.github.io/submit/)! 
-
-<p align="center">
-<img src="../images/friends.png" width="150" height="120">
-</p>
-
 I am a Post-doctoral researcher at the [médialab Sciences Po](https://medialab.sciencespo.fr/en/) in Paris. I work on the [AI-Political Machines](https://medialab.sciencespo.fr/activites/ai-political-machine/) project under the supervision of [Pedro Ramaciotti Morales](https://pedroramaciotti.github.io/).
 
 My research is devoted to the study of opinion dynamics in online social platforms, between theoretical models and empirical observations. I have a keen interest in the multi-dimensional aspect of opinions and its impact on polarisation. I find particularly important the *signed* aspect of social networks, incorporating both friendly and hostile relationships and interactions. I also study recommender systems, and policies related to the regulation of the online space from a practical perspective.
