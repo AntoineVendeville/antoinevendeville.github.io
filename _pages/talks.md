@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## 2024
+* The role of mathematical models in social sciences. Presented on September 24, 2024 at [Sciences Po médialab](https://medialab.sciencespo.fr/en/news/the-role-of-mathematical-models-in-social-sciences/).
+* Inferring political preferences of Twitter users with a simple model for opinion dynamics. June 7, 2024 at [Bridges24](https://iscpif.fr/bridgesd24/).
 * [Discord in the Voter Model on Complex Networks](../files/poster_complenet.pdf). Presented on April 24, 2024 at [Complenet](https://complenet.weebly.com/).
 * [Recommendation of content to mitigate the echo chamber effect](../files/talk_complenet.pdf). Presented on April 24, 2024 at [Complenet](https://complenet.weebly.com/).
 
