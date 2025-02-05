@@ -5,10 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Works in progress
+* A. Vendeville. A model for French voters. Preprint on [arXiv](https://arxiv.org/abs/2501.13215), [HAL](https://hal.science/hal-04849938). Submitted.
+* G. Di Bona, E. Fraxanet, B. Komander, A. Lo Sasso, V. Morini, A. Vendeville, M. Falkenberg, A. Galeazzi. Sampled Datasets Risk Substantial Bias in the Identification of Political Polarization on Social Media. Preprint on [arXiv](https://arxiv.org/abs/2406.19867).
+
 ## 2024
 * A. Vendeville, F. Diaz-Diaz. Echo chamber effects in signed networks. [Phyical Review E, 111(2), 024302](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024312). Preprint on [arXiv](https://arxiv.org/abs/2406.17435).
-* A. Vendeville. A model for French voters. Preprint on [HAL](https://hal.science/hal-04849938). Work in progress.
-* G. Di Bona, E. Fraxanet, B. Komander, A. Lo Sasso, V. Morini, A. Vendeville, M. Falkenberg, A. Galeazzi. Sampled Datasets Risk Substantial Bias in the Identification of Political Polarization on Social Media. Preprint on [arXiv](https://arxiv.org/abs/2406.19867). Work in progress.
 * A. Vendeville, S. Zhou and B. Guedj. Discord in the voter model for complex networks. [Phyical Review E, 109(2), 024312](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024312). Preprint on [arXiv](https://arxiv.org/abs/2203.02002), [HAL](https://hal.inria.fr/hal-03600429).
 
 ## 2023
