@@ -10,7 +10,7 @@ author_profile: true
 * G. Di Bona, E. Fraxanet, B. Komander, A. Lo Sasso, V. Morini, A. Vendeville, M. Falkenberg, A. Galeazzi. Sampled Datasets Risk Substantial Bias in the Identification of Political Polarization on Social Media. Preprint on [arXiv](https://arxiv.org/abs/2406.19867).
 
 ## 2025
-* A. Vendeville, F. Diaz-Diaz. Modeling cho chamber effects in signed networks. [Physical Review E, 111(2), 024302](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.024302). Preprint on [arXiv](https://arxiv.org/abs/2406.17435).
+* A. Vendeville, F. Diaz-Diaz. Modeling echo chamber effects in signed networks. [Physical Review E, 111(2), 024302](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.111.024302). Preprint on [arXiv](https://arxiv.org/abs/2406.17435).
 
 ## 2024
 * A. Vendeville, S. Zhou and B. Guedj. Discord in the voter model for complex networks. [Physical Review E, 109(2), 024312](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024312). Preprint on [arXiv](https://arxiv.org/abs/2203.02002), [HAL](https://hal.inria.fr/hal-03600429).
