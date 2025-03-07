@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Post-doctoral researcher at the [médialab Sciences Po](https://medialab.sciencespo.fr/en/) in Paris. I work on the [AI-Political Machines](https://medialab.sciencespo.fr/activites/ai-political-machine/) project under the supervision of [Pedro Ramaciotti Morales](https://pedroramaciotti.github.io/).
 
-At the intersection of theoretical models and empirical analyses, my research focuses on the impact of social media on the political and informational landscape of our societies. My goal is to develop research methods to help address the crucial challenge of the regulation of social media. I am particularly interested in the study of multi-dimensional opinion dynamics and polarisation. 
+At the intersection of theoretical models and empirical analyses, my research focuses on the dynamlics of online political and informational landscapes. I am particularly interested in the study of multi-dimensional opinion dynamics. I also strive to conduct research to help address the crucial challenge of the regulation of social media.
 
 I am also affiliated with the [Paris Institute of Complex Systems](https://iscpif.fr/?lang=en), and the [Digital Speech Lab](https://www.digitalspeechlab.com/) at University College London.
 
