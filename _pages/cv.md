@@ -41,7 +41,8 @@ PDF file [here](../files/mycv.pdf).
 ## Academic engagement
 I am a member of the [Complex Systems Society](https://cssociety.org/home). I was a student volunteer at [INFOCOM 2019](https://infocom2019.ieee-infocom.org/index.html).
 
-I have reviewed papers for the following journals:
+I have reviewed papers for the following conferences and journals:
+* [IC2S2](https://www.ic2s2.org/)
 * [Nature Scientific Reports](https://www.nature.com/srep/)
 * [PLOS ONE](https://journals.plos.org/plosone/)
 * [Proceedings of the Royal Society A](https://royalsocietypublishing.org/journal/rspa)
