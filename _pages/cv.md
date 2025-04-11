@@ -39,7 +39,7 @@ PDF file [here](../files/mycv.pdf).
 * 2021: [Benjamin Guedj](https://bguedj.github.io/) and I supervised [Valentin Kilian](https://valentinkil.github.io/) for a 2 months research internship on opinion dynamics at [Inria](https://www.inria.fr/en).
 
 ## Academic engagement
-I am a member of the [Complex Systems Society](https://cssociety.org/home). I was a student volunteer at [INFOCOM 2019](https://infocom2019.ieee-infocom.org/index.html).
+I was a co-organiser of the 2025 edition of the [Winter Workshop on Complex Systems](https://wwcs2025.github.io/). I was a student volunteer at [INFOCOM 2019](https://infocom2019.ieee-infocom.org/index.html).
 
 I have reviewed papers for the following conferences and journals:
 * [IC2S2](https://www.ic2s2.org/)
