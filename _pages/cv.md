@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-PDF file [here](../files/mycv.pdf).
+PDF file [here](../files/cv/mycv.pdf).
 
 ## Research positions
 * 2023-2025: Post-doctoral researcher, Médialab Sciences Po, Paris
