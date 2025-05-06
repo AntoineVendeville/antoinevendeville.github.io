@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 
-PDF file [here](../files/cv/mycv.pdf).
-
-## Research positions
+## Academic positions
 * 2023-2025: Post-doctoral researcher, Médialab Sciences Po, Paris
 	* Project: [AI-Political Machines](https://medialab.sciencespo.fr/activites/ai-political-machine/).
 	* Supervisor: [Pedro Ramaciotti Morales](https://pedroramaciotti.github.io/).
