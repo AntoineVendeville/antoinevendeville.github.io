@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## 2024
+* Population of X/Twitter users and web domains embedded in a multidimensional political opinion space. Presented on June 12, 2025 at LiP6 (Sorbonne Université, Paris).
+* Population of X/Twitter users and web domains embedded in a multidimensional political opinion space. Presented on May 14, 2024 at Sciences Po Paris.
 * The Voter Model for Heterogeneous Data: Theory and Application to a French Twitter Dataset. Presented on Decembre 18, 2024 at [Centre d'économie de la Sorbonne](https://sites.google.com/site/cesworkinggroupnetworks/seminars-since-102014?authuser=0).
 * The role of mathematical models in social sciences. Presented on September 24, 2024 at [Sciences Po médialab](https://medialab.sciencespo.fr/en/news/the-role-of-mathematical-models-in-social-sciences/).
 * Inferring political preferences of Twitter users with a simple model for opinion dynamics. June 7, 2024 at [Bridges24](https://iscpif.fr/bridgesd24/).
