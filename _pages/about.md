@@ -16,7 +16,7 @@ I am also affiliated with the [Paris Institute of Complex Systems](https://iscpi
 
 Previously, I was a PhD student in the Computer Science department of University College London, where I studied the echo chamber effect in social media and proposed methods to mitigate it. I was part of the [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). My research project was supervised by [Benjamin Guedj](https://bguedj.github.io/) and [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/).
 
-
+<!--
 ## Selected publications
 
 ### Discord in the voter model for complex networks
