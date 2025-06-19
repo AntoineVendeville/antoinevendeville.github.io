@@ -16,18 +16,13 @@ I am also affiliated with the [Paris Institute of Complex Systems](https://iscpi
 
 Previously, I was a PhD student in the Computer Science department of University College London, where I studied the echo chamber effect in social media and proposed methods to mitigate it. I was part of the [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). My research project was supervised by [Benjamin Guedj](https://bguedj.github.io/) and [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/).
 
-<!--
-## Selected publications
 
-### Discord in the voter model for complex networks
+## Latest publication
 
-<img src="../images/discord.png" alt="Alt text" width="150" height="70">
+### Voter model can accurately predict individual opinions in online populations
 
-A. Vendeville, S. Zhou and B. Guedj. [Phys. Rev. E, 109(2), 024312 (2024)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024312).
+ In this paper, I show that the Voter Model can predict individual opinions in a large, heterogeneous online population. I study a retweet network collected during the 2017 French presidential elections where accounts of political entities are fixed as reference points. I show that in its equilibrium state, the Voter Model correctly identifies ground-truth opinions of more than 92% of the users.
 
+<img src="../images/kdeplot_customized.png" alt="Alt text" width="150" height="70">
 
-### Opening up echo chambers via optimal content recommendations
-
-<img src="../images/cna23.png" alt="Alt text" width="150" height="100">
-
-A. Vendeville, A. Giovanidis, E. Papanastasiou and B. Guedj. [Proc. Complex Netw. Appl. XI (2023)](https://link.springer.com/chapter/10.1007/978-3-031-21127-0_7).
+A. Vendeville. Voter model can accurately predict individual opinions in online populations. [Physical Review E, 111, 064310](https://doi.org/10.1103/PhysRevE.111.064310). Preprint on [arXiv](https://arxiv.org/abs/2501.13215), [HAL](https://hal.science/hal-04849938). Featured in [Physics Magazine](https://physics.aps.org/articles/v18/s76).
