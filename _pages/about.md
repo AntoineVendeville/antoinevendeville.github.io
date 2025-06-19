@@ -21,8 +21,8 @@ Previously, I was a PhD student in the Computer Science department of University
 
 ### Voter model can accurately predict individual opinions in online populations
 
- In this paper, I show that the Voter Model can predict individual opinions in a large, heterogeneous online population. I study a retweet network collected during the 2017 French presidential elections where accounts of political entities are fixed as reference points. I show that in its equilibrium state, the Voter Model correctly identifies ground-truth opinions of more than 92% of the users.
+* A. Vendeville. Voter model can accurately predict individual opinions in online populations. [Physical Review E, 111, 064310](https://doi.org/10.1103/PhysRevE.111.064310). Preprint on [arXiv](https://arxiv.org/abs/2501.13215), [HAL](https://hal.science/hal-04849938). Featured in [Physics Magazine](https://physics.aps.org/articles/v18/s76).
 
-<img src="../images/kdeplot_customized.png" alt="Alt text" width="150" height="70">
+In this paper, I show that the Voter Model can predict individual opinions in a large, heterogeneous online population. I study a retweet network collected during the 2017 French presidential elections where accounts of political entities are fixed as reference points. I show that in its equilibrium state, the Voter Model correctly identifies ground-truth opinions of more than 92% of the users.
 
-A. Vendeville. Voter model can accurately predict individual opinions in online populations. [Physical Review E, 111, 064310](https://doi.org/10.1103/PhysRevE.111.064310). Preprint on [arXiv](https://arxiv.org/abs/2501.13215), [HAL](https://hal.science/hal-04849938). Featured in [Physics Magazine](https://physics.aps.org/articles/v18/s76).
+<img src="../images/kdeplot_customized.png" alt="Alt text" width="600" height="300">
