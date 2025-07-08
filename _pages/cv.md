@@ -24,6 +24,7 @@ redirect_from:
 	* Duration: 5 months.
 
 ## Research visits
+* 2025: [Department of Network and Data Science, Central European University, Vienna](https://people.ceu.edu/unit/dnds), for a collaboration with [Max Falkenberg](https://www.maxfalkenberg.com/).
 * 2023: [IFISC Mallorca](https://ifisc.uib-csic.es/es/), for a collaboration with [Fernando Diaz-Diaz](https://ifisc.uib-csic.es/es/people/fernando-diaz/).
 * 2022: Sorbonne Université, for a collaboration with [Anastasios Giovanidis](https://anastasiosgiovanidis.net/).
 
