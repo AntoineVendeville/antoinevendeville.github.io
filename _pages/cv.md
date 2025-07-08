@@ -34,7 +34,7 @@ redirect_from:
 * 2012 - 2015: Bachelor in Mathematics and Applications, Sorbonne Université.<sup>*</sup>
 
 ## Supervision
-* 2021: [Benjamin Guedj](https://bguedj.github.io/) and I supervised [Valentin Kilian](https://valentinkil.github.io/) for a 2 months research internship on opinion dynamics at [Inria](https://www.inria.fr/en).
+* 2021: [Benjamin Guedj](https://bguedj.github.io/) and I supervised [Valentin Kilian](https://valentinkil.github.io/) for a 3 months research internship on opinion dynamics at [Inria](https://www.inria.fr/en).
 
 ## Academic engagement
 I was a co-organiser of the 2025 edition of the [Winter Workshop on Complex Systems](https://wwcs2025.github.io/). I was a student volunteer at [INFOCOM 2019](https://infocom2019.ieee-infocom.org/index.html).
