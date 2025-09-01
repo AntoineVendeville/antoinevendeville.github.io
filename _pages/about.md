@@ -22,7 +22,7 @@ We just released a public database with measurements of multidimensional politic
 
 [Preprint](https://hal.science/hal-05222448) - [Data](https://osf.io/at5q2/)
 
-<img src="../images/2D_plot_lrecon_23_antielite_salience_23.png" alt="Alt text" width="600" height="300">
+<img src="../images/2D_plot_lrecon_23_antielite_salience_23.png" alt="Alt text" width="400" height="200">
 
 
 ## Latest publication
