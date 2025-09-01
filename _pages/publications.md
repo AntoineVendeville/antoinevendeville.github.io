@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Works in progress
-* A. Vendeville, J. Royo-Letelier, D. Cassells, J.-P. Cointet, T. Faverjon, T. Lenoir, B. Mazoyer, B. Ooghe-Tabanou, A. Pournaki, H. Yamashita et P. Ramaciotti. Mapping the Digital Political Landscape: A Multidimensional dataset of X users, Politicians, and Media Outlets in Opinion Spaces.
+* A. Vendeville, J. Royo-Letelier, D. Cassells, J.-P. Cointet, T. Faverjon, T. Lenoir, B. Mazoyer, B. Ooghe-Tabanou, A. Pournaki, H. Yamashita et P. Ramaciotti. Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X. Preprint on [HAL](https://hal.science/hal-05222448/).
 * G. Di Bona, E. Fraxanet, B. Komander, A. Lo Sasso, V. Morini, A. Vendeville, M. Falkenberg, A. Galeazzi. Sampled Datasets Risk Substantial Bias in the Identification of Political Polarization on Social Media. Preprint on [arXiv](https://arxiv.org/abs/2406.19867).
 * D. Cassells, A. Vendeville, L. Tabourier, P. Ramaciotti. Co-evolution of groups and opinions in agent-based models. Preprint on [HAL](https://hal.science/hal-05146797).
 

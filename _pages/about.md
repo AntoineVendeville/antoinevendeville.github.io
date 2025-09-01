@@ -16,6 +16,12 @@ I am also affiliated with the [Paris Institute of Complex Systems](https://iscpi
 
 Previously, I was a PhD student in the Computer Science department of University College London, where I studied the echo chamber effect in social media and proposed methods to mitigate it. I was part of the [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). My research project was supervised by [Benjamin Guedj](https://bguedj.github.io/) and [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/).
 
+## Data
+We just released a public database with measurements of multidimensional political opinions, activity and popularity for almost a million X users, including politicians and media outlets.
+
+Preprint: https://hal.science/hal-05222448
+Data: https://osf.io/at5q2/metadata/osf
+
 
 ## Latest publication
 
