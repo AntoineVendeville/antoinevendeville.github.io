@@ -19,8 +19,7 @@ Previously, I was a PhD student in the Computer Science department of University
 ## Data
 We just released a public database with measurements of multidimensional political opinions, activity and popularity for almost a million X users, including politicians and media outlets.
 
-Preprint: https://hal.science/hal-05222448
-Data: https://osf.io/at5q2/metadata/osf
+[Preprint](https://hal.science/hal-05222448) - [Data](https://osf.io/at5q2/metadata/osf)
 
 
 ## Latest publication
