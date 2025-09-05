@@ -12,7 +12,7 @@ I am a Post-doctoral researcher at the [médialab Sciences Po](https://medialab.
 
 At the intersection of theoretical models and empirical analyses, my research focuses on the structure of online political and informational landscapes. I am particularly interested in the study of multi-dimensional opinion dynamics. I also strive to conduct research to help address the crucial challenge of the regulation of social media.
 
-I am also affiliated with the [Paris Institute of Complex Systems](https://iscpif.fr/?lang=en), and the [Learning Planet Institute](https://www.learningplanetinstitute.org/en/). I am a former research associate of the [Digital Speech Lab](https://www.digitalspeechlab.com/) at University College London.
+I am also affiliated with the [Paris Institute of Complex Systems](https://iscpif.fr/?lang=en), the [Learning Planet Institute](https://www.learningplanetinstitute.org/en/), and the [Digital Speech Lab](https://www.digitalspeechlab.com/) at University College London.
 
 Previously, I was a PhD student in the Computer Science department of University College London, where I studied the echo chamber effect in social media and proposed methods to mitigate it. I was part of the [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). My research project was supervised by [Benjamin Guedj](https://bguedj.github.io/) and [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/).
 
