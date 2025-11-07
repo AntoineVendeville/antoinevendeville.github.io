@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talks and Presentations"
-permalink: /talks/
+permalink: /talks_old/
 author_profile: true
 ---
 
