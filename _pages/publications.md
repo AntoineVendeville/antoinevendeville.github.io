@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Works in progress
-* A. Vendeville, J. Royo-Letelier, D. Cassells, J.-P. Cointet, T. Faverjon, T. Lenoir, B. Mazoyer, B. Ooghe-Tabanou, A. Pournaki, H. Yamashita et P. Ramaciotti. Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X. Preprint on [HAL](https://hal.science/hal-05222448/). Dataset on [OSF](https://osf.io/at5q2/).
+* D. Cassells, A. Vendeville, L. Tabourier, P. Ramaciotti. Co-evolution of groups and opinions in agent-based models. Preprint on [HAL](https://hal.science/hal-05146797). In press.
+* A. Vendeville, J. Royo-Letelier, D. Cassells, J.-P. Cointet, T. Faverjon, T. Lenoir, B. Mazoyer, B. Ooghe-Tabanou, A. Pournaki, H. Yamashita et P. Ramaciotti. Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X. Under review. Preprint on [HAL](https://hal.science/hal-05222448/). Dataset on [OSF](https://osf.io/at5q2/).
 * G. Di Bona, E. Fraxanet, B. Komander, A. Lo Sasso, V. Morini, A. Vendeville, M. Falkenberg, A. Galeazzi. Sampled Datasets Risk Substantial Bias in the Identification of Political Polarization on Social Media. Preprint on [arXiv](https://arxiv.org/abs/2406.19867).
-* D. Cassells, A. Vendeville, L. Tabourier, P. Ramaciotti. Co-evolution of groups and opinions in agent-based models. Preprint on [HAL](https://hal.science/hal-05146797).
 
 ## 2025
 * A. Vendeville. Voter model can accurately predict individual opinions in online populations. [Physical Review E, 111, 064310](https://doi.org/10.1103/PhysRevE.111.064310). Preprint on [arXiv](https://arxiv.org/abs/2501.13215), [HAL](https://hal.science/hal-04849938). Featured in [Physics Magazine](https://physics.aps.org/articles/v18/s76).
