@@ -10,11 +10,11 @@ redirect_from:
 
 I am a Post-doctoral researcher at the [médialab Sciences Po](https://medialab.sciencespo.fr/en/) in Paris. I work on the [AI-Political Machines](https://medialab.sciencespo.fr/activites/ai-political-machine/) project under the supervision of [Pedro Ramaciotti Morales](https://pedroramaciotti.github.io/).
 
-At the intersection of theoretical models and empirical analyses, my research focuses on the structure of online political and informational landscapes. I am particularly interested in the study of multi-dimensional opinion dynamics. I also strive to conduct research to help address the crucial challenge of the regulation of social media.
-
-I am also affiliated with the [Paris Institute of Complex Systems](https://iscpif.fr/?lang=en), the [Learning Planet Institute](https://www.learningplanetinstitute.org/en/), and the [Digital Speech Lab](https://www.digitalspeechlab.com/) at University College London.
+At the intersection of theoretical models and empirical analyses, my research focuses on the structure of online political and informational landscapes. Recently, I have been working on the public release and the analysis of large X databases, focusing on the multidimensional structure of the users' political opinions. I am also greatly interested in the validation of opinion dynamics models with empirical data, and in the study of signed networks. In general, I strive to conduct research to better understand the impact of social media on our societies.
 
 Previously, I was a PhD student in the Computer Science department of University College London, where I studied the echo chamber effect in social media and proposed methods to mitigate it. I was part of the [Centre for Doctoral Training in Cybersecurity](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/centre-doctoral-training-cybersecurity). My research project was supervised by [Benjamin Guedj](https://bguedj.github.io/) and [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/).
+
+I am also affiliated with the [Paris Institute of Complex Systems](https://iscpif.fr/?lang=en) and the [Learning Planet Institute](https://www.learningplanetinstitute.org/en/).
 
 ## Data
 
