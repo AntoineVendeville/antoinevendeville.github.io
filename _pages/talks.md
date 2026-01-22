@@ -5,8 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-## 2025
+## 2026
 * Online and offline dimensionality of political opinions. January 28, 2026. Department of Network and Data Science, Central European University, Vienna.
+
+## 2025
 * Rencontre entre théorie et empirisme: identifier les intentions de vote des utilisateurs Twitter via un modèle de dynamiques d'opinion. November 7, 2025. Centre d'analyse et de mathématique sociales, EHESS, Paris.
 * Population of X/Twitter users and web domains embedded in a multidimensional political opinion space. June 12, 2025. LiP6, Sorbonne Université, Paris.
 
