@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Works in progress
-* A. Vendeville, J. Royo-Letelier, D. Cassells, J.-P. Cointet, T. Faverjon, T. Lenoir, B. Mazoyer, B. Ooghe-Tabanou, A. Pournaki, H. Yamashita et P. Ramaciotti. Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X. Under review. Preprint on [HAL](https://hal.science/hal-05222448/). Dataset on [OSF](https://osf.io/at5q2/).
+## In progress
+* A. Vendeville, J. Royo-Letelier, D. Cassells, J.-P. Cointet, T. Faverjon, T. Lenoir, B. Mazoyer, B. Ooghe-Tabanou, A. Pournaki, H. Yamashita et P. Ramaciotti. Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X. Under review. Dataset on [OSF](https://osf.io/at5q2/). Preprint on [arXiv](https://arxiv.org/abs/2602.06604), [HAL](https://hal.science/hal-05222448/).
 * F. Diaz-Diaz, E. Candellone, M.A. Gonzalez-Casado, E. Fraxanet, A. Vendeville, I. Ferri, A.S. Teixeira. Signed Networks: theory, methods, and applications. Preprint on [arXiv](https://arxiv.org/abs/2511.17247), [HAL](https://hal.science/hal-05381558).
 * G. Di Bona, E. Fraxanet, B. Komander, A. Lo Sasso, V. Morini, A. Vendeville, M. Falkenberg, A. Galeazzi. Sampled Datasets Risk Substantial Bias in the Identification of Political Polarization on Social Media. Preprint on [arXiv](https://arxiv.org/abs/2406.19867).
 
