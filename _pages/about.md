@@ -20,7 +20,8 @@ I am also affiliated with the [Paris Institute of Complex Systems](https://iscpi
 
 We just released a public database with measurements of multidimensional political opinions, activity and popularity for almost a million X users, including politicians and media outlets.
 
-[Data in Brief, 112615](https://doi.org/10.1016/j.dib.2026.112615) - [Data](https://osf.io/v28kh/)
+- Paper: [Data in Brief, 112615](https://doi.org/10.1016/j.dib.2026.112615)
+- Data repository: [OSF v28kh](https://osf.io/v28kh/)
 
 <img src="../images/2D_plot_lrecon_23_antielite_salience_23.png" alt="Alt text" width="400" height="200">
 
@@ -45,4 +46,4 @@ Our results highlight two surprising facts.
 
 This work is a first step towards understanding the multidimensional structure of political opinions across data sources.
 
-<img src="../images/3D.png" alt="Alt text" width="600" height="300">
+<img src="../images/3D.png" alt="Alt text" width="700" height="350">
