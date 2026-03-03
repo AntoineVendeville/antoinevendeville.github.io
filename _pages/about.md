@@ -20,7 +20,7 @@ I am also affiliated with the [Paris Institute of Complex Systems](https://iscpi
 
 We just released a public database with measurements of multidimensional political opinions, activity and popularity for almost a million X users, including politicians and media outlets.
 
-[Preprint](https://hal.science/hal-05222448) - [Data](https://osf.io/at5q2/)
+[Data in Brief, 112615](https://doi.org/10.1016/j.dib.2026.112615) - [Data](https://osf.io/v28kh/)
 
 <img src="../images/2D_plot_lrecon_23_antielite_salience_23.png" alt="Alt text" width="400" height="200">
 
@@ -29,8 +29,20 @@ We just released a public database with measurements of multidimensional politic
 
 ### Voter model can accurately predict individual opinions in online populations
 
-* A. Vendeville. Voter model can accurately predict individual opinions in online populations. [Physical Review E, 111, 064310](https://doi.org/10.1103/PhysRevE.111.064310). Preprint on [arXiv](https://arxiv.org/abs/2501.13215), [HAL](https://hal.science/hal-04849938). Featured in [Physics Magazine](https://physics.aps.org/articles/v18/s76).
+* A. Vendeville, H. Yamashita and P. Ramaciotti. Political attitudes differ but share a common low-dimensional structure across social media and survey data. Preprint on [arXiv](https://arxiv.org/abs/2603.02102).
 
-In this paper, I show that the Voter Model can predict individual opinions in a large, heterogeneous online population. I study a retweet network collected during the 2017 French presidential elections where accounts of political entities are fixed as reference points. I show that in its equilibrium state, the Voter Model correctly identifies ground-truth opinions of more than 92% of the users.
+How do political attitudes on social media differ from the general public ?
 
-<img src="../images/kdeplot_customized.png" alt="Alt text" width="600" height="300">
+We compare the structural similarities and differences between political attitudes of almost a million French users of X with those of a nationally representative panel from the European Social Survey, on several political dimensions. 
+
+We foucs on ideological polarization and issue alignment, and evaluate how these are affected by variables of activity, popularity, and exposure. 
+
+Our results highlight two surprising facts. 
+
+1. X users exhibit very different attitudes from the general public on most dimensions, but these attitudes share the same low-dimensional structure, composed of a Left-Right divide (pertaining to issues such as immigration or redistribution of wealth) and a Global-Local divide (pertaining to anti-elitist sentiment and views on EU integration).
+
+2. The most active users exhibit higher levels of polarization and alignment, and increased dissimilarity with the general public. But users who benefit from the most exposure are found to be the most representative of the general public.
+
+This work is a first step towards understanding the multidimensional structure of political opinions across data sources.
+
+<img src="../images/3D.png" alt="Alt text" width="600" height="300">
