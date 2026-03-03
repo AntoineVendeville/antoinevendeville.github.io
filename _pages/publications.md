@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## In progress
+* * A. Vendeville, H. Yamashita, P. Ramaciotti. Political attitudes differ but share a common low-dimensional structure across social media and survey data. Preprint on [arXiv](https://arxiv.org/abs/2603.02102).
+
 * F. Diaz-Diaz, E. Candellone, M.A. Gonzalez-Casado, E. Fraxanet, A. Vendeville, I. Ferri, A.S. Teixeira. Signed Networks: theory, methods, and applications. Preprint on [arXiv](https://arxiv.org/abs/2511.17247), [HAL](https://hal.science/hal-05381558).
 * G. Di Bona, E. Fraxanet, B. Komander, A. Lo Sasso, V. Morini, A. Vendeville, M. Falkenberg, A. Galeazzi. Sampled Datasets Risk Substantial Bias in the Identification of Political Polarization on Social Media. Preprint on [arXiv](https://arxiv.org/abs/2406.19867).
 
