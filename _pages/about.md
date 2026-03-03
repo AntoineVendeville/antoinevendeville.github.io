@@ -25,11 +25,11 @@ We just released a public database with measurements of multidimensional politic
 <img src="../images/2D_plot_lrecon_23_antielite_salience_23.png" alt="Alt text" width="400" height="200">
 
 
-## Latest publication
+## Latest article
 
-### Voter model can accurately predict individual opinions in online populations
+### Political attitudes differ but share a common low-dimensional structure across social media and survey data
 
-* A. Vendeville, H. Yamashita and P. Ramaciotti. Political attitudes differ but share a common low-dimensional structure across social media and survey data. Preprint on [arXiv](https://arxiv.org/abs/2603.02102).
+* with H. Yamashita and P. Ramaciotti. Preprint on [arXiv](https://arxiv.org/abs/2603.02102).
 
 How do political attitudes on social media differ from the general public ?
 
