@@ -34,6 +34,3 @@ author_profile: true
 
 ## PhD Thesis
 * A. Vendeville. The echo chamber effect in social networks: theoretical analysis and steering strategies. 2024. Manuscript available on [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10185036/) and on [HAL](https://theses.hal.science/tel-04431872).
-
-## Unpublished work
-* S. Bray, A. Vendeville, H. Milani. Good practices for cybersecurity behaviour change interventions. 2020. Available [online](https://www.ucl.ac.uk/cybersecurity-cdt/sites/cybersecurity-cdt/files/student-profiles-policy-briefing-good-practices-cybersecurity-behaviour-change.pdf).
