@@ -11,7 +11,7 @@ author_profile: true
 * G. Di Bona, E. Fraxanet, B. Komander, A. Lo Sasso, V. Morini, A. Vendeville, M. Falkenberg, A. Galeazzi. Sampled Datasets Risk Substantial Bias in the Identification of Political Polarization on Social Media. Preprint on [arXiv](https://arxiv.org/abs/2406.19867).
 
 ## 2026
-* A. Vendeville, J. Royo-Letelier, D. Cassells, J.-P. Cointet, T. Faverjon, T. Lenoir, B. Mazoyer, B. Ooghe-Tabanou, A. Pournaki, H. Yamashita et P. Ramaciotti. Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X. [Data in Brief, 112615](https://doi.org/10.1016/j.dib.2026.112615). Dataset on [OSF](https://osf.io/at5q2/). Preprint on [arXiv](https://arxiv.org/abs/2602.06604), [HAL](https://hal.science/hal-05222448/).
+* A. Vendeville, J. Royo-Letelier, D. Cassells, J.-P. Cointet, T. Faverjon, T. Lenoir, B. Mazoyer, B. Ooghe-Tabanou, A. Pournaki, H. Yamashita and P. Ramaciotti. Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X. [Data in Brief, 112615](https://doi.org/10.1016/j.dib.2026.112615). Dataset on [OSF](https://osf.io/at5q2/). Preprint on [arXiv](https://arxiv.org/abs/2602.06604), [HAL](https://hal.science/hal-05222448/).
 
 ## 2025
 * D. Cassells, A. Vendeville, L. Tabourier, P. Ramaciotti. Co-evolution of groups and opinions in agent-based model. [PLOS ONE 20(12): e0338486](https://doi.org/10.1371/journal.pone.0338486). Preprint on [HAL](https://hal.science/hal-05146797).
