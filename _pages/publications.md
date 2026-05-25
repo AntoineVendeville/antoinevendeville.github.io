@@ -7,8 +7,7 @@ author_profile: true
 
 ## Works in progress
 * A. Vendeville, H. Yamashita and P. Ramaciotti. Political attitudes differ but share a common low-dimensional structure across social media and survey data. Preprint on [arXiv](https://arxiv.org/abs/2603.02102), [HAL](https://hal.science/hal-05533717).
-* F. Diaz-Diaz, E. Candellone, M.A. Gonzalez-Casado, E. Fraxanet, A. Vendeville, I. Ferri and A.S. Teixeira. Signed Networks: theory, methods, and applications. Preprint on [arXiv](https://arxiv.org/abs/2511.17247), [HAL](https://hal.science/hal-05381558).
-* G. Di Bona, E. Fraxanet, B. Komander, A. Lo Sasso, V. Morini, A. Vendeville, M. Falkenberg and A. Galeazzi. Sampled Datasets Risk Substantial Bias in the Identification of Political Polarization on Social Media. Preprint on [arXiv](https://arxiv.org/abs/2406.19867).
+* G. Di Bona, E. Fraxanet, B. Komander, A. Lo Sasso, V. Morini, A. Vendeville, M. Falkenberg and A. Galeazzi. Sampled social media data risk biased and inconsistent estimates of online social phenomena. Preprint on [OSF](https://osf.io/preprints/socarxiv/37jz9_v1).
 
 ## 2026
 * A. Vendeville, J. Royo-Letelier, D. Cassells, J.-P. Cointet, T. Faverjon, T. Lenoir, B. Mazoyer, B. Ooghe-Tabanou, A. Pournaki, H. Yamashita and P. Ramaciotti. Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X. [Data in Brief, 65, 112615](https://doi.org/10.1016/j.dib.2026.112615). Dataset on [OSF](https://osf.io/at5q2/). Preprint on [arXiv](https://arxiv.org/abs/2602.06604), [HAL](https://hal.science/hal-05222448/).
@@ -33,6 +32,9 @@ author_profile: true
 
 ## 2019
 * A. Giovanidis, B. Baynat and A. Vendeville. Performance Analysis of Online Social Platforms. [IEEE INFOCOM 2019, pp. 2413-2421](https://ieeexplore.ieee.org/abstract/document/8737539). Preprint on [arXiv](https://arxiv.org/abs/1902.07187), [HAL](https://hal.archives-ouvertes.fr/hal-01941296).
+
+## Books
+* F. Diaz-Diaz, E. Candellone, M.A. Gonzalez-Casado, E. Fraxanet, A. Vendeville, I. Ferri and A.S. Teixeira. Signed Networks: theory, methods, and applications. Preprint on [arXiv](https://arxiv.org/abs/2511.17247), [HAL](https://hal.science/hal-05381558).
 
 ## PhD Thesis
 * A. Vendeville. The echo chamber effect in social networks: theoretical analysis and steering strategies. 2024. Manuscript available on [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10185036/) and on [HAL](https://theses.hal.science/tel-04431872).
