@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## 2026
+* Computational Approaches to Political Dynamics: Public Opinion, Digital Platforms, and Democracy. November 4, 2026. CEVIPOL, Université Libre de Bruxelles, Belgium.
+* Déformation de l'opinion publique sur les réseaux sociaux : une analyse systématique en France. November 3, 2026. TRANSFO, Université Libre de Bruxelles, Belgium.
 * Online and offline dimensionality of political opinions. January 28, 2026. Department of Network and Data Science, Central European University, Vienna.
 
 ## 2025
